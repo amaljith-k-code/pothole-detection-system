@@ -1,0 +1,6 @@
+video1.mov
+runs/
+__pycache__/
+*.pyc
+.venv/
+venv/
